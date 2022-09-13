@@ -1,0 +1,48 @@
+
+#k {background-image: url(../image/conditerskaya.jpg);}
+.pupa h1 { color: black; -webkit-text-fill-color: rgb(255, 0, 157); -webkit-text-stroke: 1px rgb(0, 225, 255);text-decoration-line:underline;font-size: 43px; text-align: center; background-image: url(../кондитерская/image/conditerskaya.jpg); padding: 200px;}
+.pupa h3 { color: black; -webkit-text-fill-color: white; -webkit-text-stroke: 1px rgb(103, 245, 138);;font-size: 43px; text-align: center; padding: 90px;}
+body {background-color: rgba(255, 181, 245, 0.383);}
+
+
+.f h1 {font-size: 71px; text-align: center; background-color: rgb(255, 196, 245);}
+#menu {text-align: center; word-spacing: 10px; padding: 7px; font-size: 45px; background-color: rgb(255, 196, 245); list-style-type: none; }      
+#menu li {font-size: 45px; display: inline-block;}
+#menu li a {font-size: 45px; text-decoration-color: rgb(204, 0, 255); color: rgb(204, 0, 255);}
+
+input[type=text], input[type=password] {
+    width: 62%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border-box;
+	text-align: center;
+	color: #4b3832;
+}
+
+form {
+    border: 3px solid #6f4d43;
+}
+button {
+    background-color: #b81487;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+.b{
+    background-color: #b81487;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 62%;
+}

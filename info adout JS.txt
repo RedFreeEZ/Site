@@ -1,0 +1,5 @@
+res.write('<h1>Hello World</h1>');//write - вывод текста
+res.write('<p>Hello is beatefull</p>');//write - вывод текста
+
+<% const name = 'Jack' %>
+    <%= name %>  
