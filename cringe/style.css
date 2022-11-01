@@ -1,0 +1,429 @@
+body {
+
+    position: absolute;
+    width: 1939px;
+    height: 1487px;
+    left: -19px;
+    top: -279px;
+    background: url(FONFOR1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.Form-registration {
+    position: absolute;
+    width: 68%;
+    height: 757px;
+    left: 0px;
+    top: 323px;
+
+    opacity: 0.8;
+    border: dashed;
+}
+
+.downstyle {
+    position: absolute;
+    width: 100%;
+    height: 757px;
+    left: 0px;
+    top: 323px;
+
+    background: radial-gradient(133.16% 119.45% at 95.35% 8.49%, rgba(55, 188, 231, 0.2) 0%, rgba(55, 188, 231, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(107.02% 107.93% at 8.29% 4.81%, rgba(43, 109, 184, 0.81) 45.31%, rgba(53, 69, 77, 0.81) 100%, rgba(0, 170, 255, 0.81) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , radial-gradient(123.1% 100.56% at 81.81% 15.06%, rgba(24, 116, 224, 0.81) 0%, rgba(72, 82, 83, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    ;
+    mix-blend-mode: normal;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px 50px 0px 0px;
+
+    position: center center;
+    border: dashed;
+}
+
+.SEARCH {
+    position: absolute;
+width: 1517px;
+height: 100px;
+left: 51px;
+top: 226px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.from-where {
+    /* Rectangle 15 */
+    /* Rectangle 15 */
+
+
+    position: absolute;
+    width: 600px;
+    height: 100px;
+    left: 201px;
+    top: 116px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+   
+ 
+}
+
+.data {
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 806px;
+    top: 116px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+   
+}
+
+.passagere {
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 1111px;
+    top: 116px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+
+}
+
+.Btn-find {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 1418px;
+    top: 116px;
+
+    background: radial-gradient(321.5% 906% at 28.33% 0%, rgba(0, 165, 255, 0.88) 0%, rgba(43, 129, 197, 0.88) 51.56%, rgba(0, 123, 247, 0.88) 70.83%, rgba(252, 252, 252, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #315A7B;
+    border: 1px solid #3E2F2F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  
+    
+
+
+font-family: 'Gowun Dodum';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+text-align: center;
+
+color: #000000;
+}
+
+.textW {
+    position: absolute;
+    width: 124px;
+    height: 52px;
+    left: 89px;
+    top: -10px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+
+    opacity: 0.55;
+}
+
+.textT {
+    position: absolute;
+    width: 81px;
+    height: 52px;
+    left: 409px;
+    top: -10px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+
+    opacity: 0.55;
+}
+
+.textD {
+    position: absolute;
+    width: 83px;
+    height: 52px;
+    left: 100px;
+    top: -10px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+
+    opacity: 0.55;
+}
+
+.textP {
+    position: absolute;
+    width: 198px;
+    height: 52px;
+    left: 50px;
+    top: -10px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+
+    opacity: 0.55;
+}
+
+.SearchB1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1038px;
+    height: 143px;
+    left: 68px;
+   top: 693px;
+
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 200px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+
+.BtnBuy {
+    position: absolute;
+    width: 346px;
+    height: 144px;
+    left: 690px;
+
+
+    background: radial-gradient(207.24% 1700.49% at 99.9% -22.17%, rgba(10, 132, 198, 0.88) 0%, rgba(255, 255, 255, 0) 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+        , #3F5BC6;
+    opacity: 0.9;
+    backdrop-filter: blur(2px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 30px 5px 5px 30px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.From-Buy {
+    position: absolute;
+    width: 132px;
+    height: 52px;
+    left: 137px;
+    top: -10px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* 12:05 */
+
+.From-time {
+
+    position: absolute;
+    width: 86px;
+    height: 52px;
+    left: 160px;
+    top: 30px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.strela {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 233px;
+    height: 0px;
+    left: 289px;
+    top: 96px;
+
+    border: 3px solid #000000;
+}
+
+.To-Buy {
+    position: absolute;
+    width: 118px;
+    height: 52px;
+    left: 537px;
+    top: -10px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* 12:05 */
+
+.To-time {
+    position: absolute;
+    width: 86px;
+    height: 52px;
+    left: 556px;
+    top: 30px;
+
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.SearchB2 {
+   
+/* Rectangle 5 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1038px;
+height: 143px;
+left: 68px;
+top: 860px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border: 1px solid #000000;
+box-shadow: 0px 4px 200px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.SearchB3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1038px;
+    height: 143px;
+    left: 68px;
+    top: 1030px;
+
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 200px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.SearchB4 {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1038px;
+    height: 143px;
+    left: 68px;
+    top: 1200px;
+    
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 200px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+
+.image1{
+    position: absolute;
+    width: 754px;
+    height: 600px;
+    left: 1134px;
+    top: 661px;
+    object-fit: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+background: url(map.png);
+}
+
+/*.image2{position: absolute;
+    width: 607px;
+    height: 242px;
+    left: 1207px;
+    top: 1096px;
+    object-fit: contain;
+    background: url(skyjet-logo-png-5.png);}*/
+
+.backdoor{position: absolute;
+    width: 1920px;
+    height: 757px;
+    left: 0px;
+    top: 323px;
+    
+    opacity: 0.8;}
+
+.buttom{position: absolute;
+ 
+position: absolute;
+width: 1920px;
+height: 757px;
+left: 0px;
+top: 323px;
+
+background: radial-gradient(133.16% 119.45% at 95.35% 8.49%, rgba(55, 188, 231, 0.2) 0%, rgba(55, 188, 231, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(107.02% 107.93% at 8.29% 4.81%, rgba(43, 109, 184, 0.81) 45.31%, rgba(53, 69, 77, 0.81) 100%, rgba(0, 170, 255, 0.81) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(123.1% 100.56% at 81.81% 15.06%, rgba(24, 116, 224, 0.81) 0%, rgba(72, 82, 83, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px 50px 0px 0px;}
+    
